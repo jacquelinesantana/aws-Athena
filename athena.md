@@ -61,4 +61,6 @@ SELECT Processo, Tipo
 FROM processos_pad;
 ```
 
-Exemplo do arquivo csv: arquivo.csv
+Exemplo do arquivo csv: [arquivo.csv](https://github.com/jacquelinesantana/aws-Athena/blob/main/teste.csv)
+
+
